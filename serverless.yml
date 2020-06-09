@@ -1,0 +1,12 @@
+template:
+  name: express-api
+  author: 'AJ Stuyvenberg'
+  keywords:
+    - express
+    - dynamodb
+    - REST
+component: express
+name: express-api
+
+inputs:
+  src: ./
